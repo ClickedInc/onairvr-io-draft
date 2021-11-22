@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+https://onairvr.net/* https://onairvr.io/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://onairvr.netlify.com/* https://onairvr.io/:splat 301!

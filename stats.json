@@ -1,0 +1,74 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-8f2aed8b7c9085d1d44f.js",
+      "component---src-pages-index-js-8f2aed8b7c9085d1d44f.js.map"
+    ],
+    "path---": [
+      "path----f9149ead2f4952948d04.js",
+      "path----f9149ead2f4952948d04.js.map"
+    ],
+    "path---downloads": [
+      "path---downloads-2a03140812be03219f45.js",
+      "path---downloads-2a03140812be03219f45.js.map"
+    ],
+    "path---usecase": [
+      "path---usecase-04c564abb19ad21d8049.js",
+      "path---usecase-04c564abb19ad21d8049.js.map"
+    ],
+    "path---faq": [
+      "path---faq-bf8d7a9f437d37dd04ec.js",
+      "path---faq-bf8d7a9f437d37dd04ec.js.map"
+    ],
+    "component---src-pages-faq-js": [
+      "component---src-pages-faq-js-b62c7495ca3b74a1aaf9.js",
+      "component---src-pages-faq-js-b62c7495ca3b74a1aaf9.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-d29ff3786b84c551ffc1.js",
+      "component---src-layouts-index-js-d29ff3786b84c551ffc1.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-8657259c438494e02d2e.js",
+      "path---index-8657259c438494e02d2e.js.map"
+    ],
+    "component---src-pages-usecase-js": [
+      "component---src-pages-usecase-js-33ca35e775cc27f4739c.js",
+      "component---src-pages-usecase-js-33ca35e775cc27f4739c.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-56d4cc192aaaaf6edfc3.js",
+      "commons-56d4cc192aaaaf6edfc3.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-downloads-js": [
+      "component---src-pages-downloads-js-aabc3e1a91f1eb4ebf39.js",
+      "component---src-pages-downloads-js-aabc3e1a91f1eb4ebf39.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
+    "app": [
+      "app-07242aeead357c9c665f.js",
+      "build-js-styles.css",
+      "app-07242aeead357c9c665f.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
